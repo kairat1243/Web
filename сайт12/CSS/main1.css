@@ -1,0 +1,31 @@
+a{
+    color: white;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    background-color: white;
+}
+h2{
+    color: rgb(255, 205, 112);
+    height: 20%;
+}
+body{
+    background-color: black;
+}
+
+section ol{
+    list-style: square;
+    color: rgb(255, 255, 255);
+
+}
+
+div{
+    color: white;
+}
+
+p{
+    color: rgb(190, 190, 190);
+    text-align: center;
+}
